@@ -1,0 +1,4 @@
+
+#!/bin/bash
+preg -A 3 "root"/etc/passwd
+
